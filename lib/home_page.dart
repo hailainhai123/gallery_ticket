@@ -26,6 +26,7 @@ class HomePage extends StatelessWidget {
               ],
             ),
           ),
+          // ExhibitionBottomSheet(),
           ScrollableExhibitionSheet(), //use this or ScrollableExhibitionSheet
         ],
       ),
